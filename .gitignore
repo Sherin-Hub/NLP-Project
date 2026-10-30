@@ -1,6 +1,0 @@
-__pycache__/
-*.py[cod]
-.venv/
-venv/
-models/*.joblib
-.streamlit/secrets.toml
